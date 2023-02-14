@@ -1,0 +1,12 @@
+h1{
+  color: #c18ff0;
+}
+p{
+  color:#DC143C;
+}
+hr{
+ border-color: grey;
+ border-width: 5px;
+ border-style: dotted none none;
+ width: 100%;
+}
